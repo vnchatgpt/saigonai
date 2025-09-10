@@ -1,5 +1,5 @@
 {
-"name": "Công cụ vẽ",
+"name": " HÙNG Công cụ vẽ",
 "short_name": "Vẽ",
 "start_url": "index.html",
 "display": "standalone",
@@ -17,4 +17,5 @@
 "type": "image/png"
 }
 ]
+
 }
