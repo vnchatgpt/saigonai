@@ -1,0 +1,20 @@
+{
+"name": "Công cụ vẽ",
+"short_name": "Vẽ",
+"start_url": "index.html",
+"display": "standalone",
+"background_color": "#f3f4f6",
+"theme_color": "#ffffff",
+"icons": [
+{
+"src": "https://www.google.com/search?q=https://placehold.co/192x192/000000/FFFFFF%3Ftext%3DV%E1%BA%BD",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "https://www.google.com/search?q=https://placehold.co/512x512/000000/FFFFFF%3Ftext%3DV%E1%BA%BD",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
